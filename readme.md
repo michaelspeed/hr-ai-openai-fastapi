@@ -1,4 +1,5 @@
 # HR Chatbot Application
+https://github.com/michaelspeed/hr-ai-openai-fastapi
 
 A sophisticated HR chatbot application built with FastAPI and OpenAI, designed to collect and manage job application information through an interactive conversation interface.
 
